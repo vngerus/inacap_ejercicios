@@ -56,12 +56,3 @@ En cada ejercicio se prioriza:
 
 ---
 
-## ✍️ Autor
-**Ángel Smith** (`vngerus`) – estudiante de Analista Programador en INACAP  
-Correo: `angelsmithlgs@gmail.com`
-
----
-
-## 📌 Nota
-Este proyecto es de carácter educativo y forma parte de mi avance en la carrera de programación.
-
